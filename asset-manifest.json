@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/UsersApp/static/css/main.2ba4e062.css",
+    "main.js": "/UsersApp/static/js/main.a53a765c.js",
+    "static/js/787.d31b441c.chunk.js": "/UsersApp/static/js/787.d31b441c.chunk.js",
+    "static/media/reactSVG.svg": "/UsersApp/static/media/reactSVG.a5ce414f8141fd4f6e4e4dd58e87e243.svg",
+    "static/media/users.svg": "/UsersApp/static/media/users.f1b5b5d930d4635e81393504d425d296.svg",
+    "index.html": "/UsersApp/index.html",
+    "main.2ba4e062.css.map": "/UsersApp/static/css/main.2ba4e062.css.map",
+    "main.a53a765c.js.map": "/UsersApp/static/js/main.a53a765c.js.map",
+    "787.d31b441c.chunk.js.map": "/UsersApp/static/js/787.d31b441c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba4e062.css",
+    "static/js/main.a53a765c.js"
+  ]
+}
