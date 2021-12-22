@@ -1,0 +1,67 @@
+@import 'colors';
+
+.App {
+  text-align: center;
+  background-color: $background;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+  background-color: $theme;
+  padding: 20px 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.userSVG{
+  width: 300px;
+  height: auto;
+}
+
+.reactSVG{
+  width: 150px;
+  height: auto;
+}
+
+.mainArea{
+  display: flex;
+  justify-content: space-around;
+  margin: 100px auto;
+}
+
+
+.sidebar{
+  margin-top: 50px;
+}
+
+.buttonArea{
+  display: flex;
+  justify-content: space-between;
+  width: 700px;
+  padding: 20px;
+  background-color: $theme;
+  border-radius: 5px;
+}
+
+.table{
+  width: 100%;
+  margin-top: 20px;
+}
+
+.tableHead{
+  background-color: $tableHead;
+  text-align: center;
+}
+
+.tableRow:nth-child(even) {
+  background-color: $tableChild;
+}
+
+.tableCell:focus{
+  outline: 0;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
